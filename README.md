@@ -29,25 +29,25 @@
   <img src="https://img.shields.io/badge/CrewAI-FF5A50?logo=crewai&logoColor=white&style=for-the-badge" alt="CrewAI" />
   <img src="https://img.shields.io/badge/RAG-1C3C3C?logo=&logoColor=white&style=for-the-badge" alt="RAG" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Diffusers-FFD21E?logo=&logoColor=white&style=for-the-badge" alt="Diffusers" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=&logoColor=white&style=for-the-badge" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Diffusers-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Diffusers" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" alt="Transformers" />
   <img src="https://img.shields.io/badge/OpenAI API-412991?logo=openai&logoColor=white&style=for-the-badge" alt="OpenAI API" />
   <img src="https://img.shields.io/badge/Amazon Sage Maker-232F3E?logo=amazon-web-services&logoColor=white&style=for-the-badge" alt="Amazon Sage Maker" />
   <img src="https://img.shields.io/badge/Vertex AI-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/TorchServe-FF4B4B?logo=&logoColor=white&style=for-the-badge" alt="TorchServe" />
+  <img src="https://img.shields.io/badge/TorchServe-FF4B4B?logo=pytorch&logoColor=white&style=for-the-badge" alt="TorchServe" />
   <img src="https://img.shields.io/badge/Gradio-F97316?logo=gradio&logoColor=white&style=for-the-badge" alt="Gradio" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=white&style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=white&style=for-the-badge" alt="YOLO" />
   <img src="https://img.shields.io/badge/Scikit Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-1C79B3?logo=&logoColor=white&style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-1C79B3?logo=&logoColor=white&style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Matplotlib-1C79B3?logo=python&logoColor=white&style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-1C79B3?logo=python&logoColor=white&style=for-the-badge" alt="Seaborn" />
 </details>
 
 <details open>
-  <summary>📱 App & Web Development</summary>
+  <summary>📱 Web & App Development</summary>
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
@@ -64,7 +64,7 @@
 </details>
 
 <details open>
-  <summary>☁️ Web Services</summary>
+  <summary>☁️ Cloud Services</summary>
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-web-services&logoColor=white&style=for-the-badge" alt="Amazon Web Services" />
   <img src="https://img.shields.io/badge/AWS Lambda-232F3E?logo=aws-lambda&logoColor=white&style=for-the-badge" alt="AWS Lambda" />
