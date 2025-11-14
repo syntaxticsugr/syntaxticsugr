@@ -73,6 +73,7 @@
   <img src="https://img.shields.io/badge/Amazon S3-232F3E?logo=amazon-s3&logoColor=white&style=for-the-badge" alt="Amazon S3" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Beam-000000?logo=&logoColor=white&style=for-the-badge" alt="Beam" />
 </details>
 
 <details open>
